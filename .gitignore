@@ -1,0 +1,5 @@
+certidoes/
+perfil_navegador/
+__pycache__/
+*.pyc
+.venv/
